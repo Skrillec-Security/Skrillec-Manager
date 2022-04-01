@@ -15,10 +15,10 @@ Blueberry => Logger System
 ```
 
 # Progress Todo list
-- [ ] DB (MySQL)
-    - [ ] Users Table
-    - [ ] APIs Table
-    - [ ] Spoofs Table
+- [X] DB (MySQL)
+    - [X] Users Table
+    - [X] APIs Table
+    - [X] Spoofs Table
 - [ ] Crud + Crud Utils
     - [ ] Create, Read, Update, Delete Users
     - [ ] Create, Read, Update, Delete APIs
