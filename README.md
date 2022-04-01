@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Skrillec Manager</h1>
-<div>
+</div>
 
 <div align="center">
 <p>A Multi SSH & API Manager CLI</p>
