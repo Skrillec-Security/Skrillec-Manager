@@ -1,8 +1,5 @@
 # Still in work
 class CLI:
-    def __init__(self) -> None:
-        self.Sensitive_Chars = ['"', '@','#','{','}',';','-','>','<','`','*','=','+','curl','\\']
-
     def start_skrillec() -> None:
         while True:
             UserInput = (str(input(" -> ")))
