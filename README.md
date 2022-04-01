@@ -6,6 +6,14 @@
 <p>A Multi SSH & API Manager CLI</p>
 </div>
 
+# Roster
+```
+Eruptsy => Project Director, Bug/Vuln Checker, Planner
+Lamp07 => DB & Flask API Base
+vSync => Manager Base
+Blueberry => Logger System
+```
+
 # Progress Todo list
 - [ ] DB (MySQL)
     - [ ] Users Table
