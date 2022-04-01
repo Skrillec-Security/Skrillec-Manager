@@ -30,8 +30,8 @@
 * This source was developed on linux. So most of the stuff on the tutorial below is about linux unless noted for windows
 ### Requirements 
 
-python3 & python3-pip (Linux / Windows comes with pip)
-mysql-server
+* python3 & python3-pip (Linux / Windows comes with pip)
+* mysql-server
 
 ### How to install dependencies 
 If you are on windows, the command start with `pip`
