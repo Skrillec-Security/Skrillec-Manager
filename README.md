@@ -6,7 +6,7 @@
 <p>A Multi SSH & API Manager CLI</p>
 </div>
 
-### Progress Todo list
+# Progress Todo list
 - [ ] DB (MySQL)
     - [ ] Users Table
     - [ ] APIs Table
@@ -25,3 +25,17 @@
     - [ ] Attack Logger
     - [ ] RCE Attacker Protection
     - [ ] Discord Webhook for logs
+
+# How to use
+* This source was developed on linux. So most of the stuff on the tutorial below is about linux unless noted for windows
+### Requirements 
+
+python3 & python3-pip (Linux / Windows comes with pip)
+mysql-server
+
+### How to install dependencies 
+If you are on windows, the command start with `pip`
+```
+pip3 install flask
+pip3 install requests
+```
