@@ -8,7 +8,6 @@ user_db = mysql.connector.connect(
 )
 
 class user:
-    
     def create():
         pass
     
