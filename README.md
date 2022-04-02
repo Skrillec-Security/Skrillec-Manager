@@ -46,4 +46,5 @@ If you are on windows, the command start with `pip`
 ```
 pip3 install flask
 pip3 install requests
+pip3 install mysql.connector
 ```
