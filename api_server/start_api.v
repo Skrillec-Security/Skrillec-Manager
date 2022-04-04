@@ -1,16 +1,16 @@
-from flask import Flask, jsonify, request
+module api_server
 
-# Creating Flask APP
-api = Flask(__name__)
+import os
+import vweb
 
-@api.route("/")
-def index():
-    ## Documentation Here
-    return "Skrillec API Manager"
+pub struct App {
+    vweb.Context
+}
 
-def api():
-    ## Documentation Here
-    pass
+pub fn start_api(p string) {
+    vweb.run(&App{}, p.int())
+}
 
-def start_api():
-    api.run(host = "0.0.0.0", port = 80)
+pub fn (mut app App) index() vweb.Result {
+    return $vweb.html()
+}
