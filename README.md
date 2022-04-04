@@ -38,13 +38,9 @@ Vizionxz => Logger System
 * This source was developed on linux. So most of the stuff on the tutorial below is about linux unless noted for windows
 ### Requirements 
 
-* python3 & python3-pip (Linux / Windows comes with pip)
-* mysql-server
+* V 
 
 ### How to install dependencies 
-If you are on windows, the command start with `pip`
 ```
-pip3 install flask
-pip3 install requests
-pip3 install mysql.connector
+sudo apt install libssl-dev
 ```
