@@ -9,9 +9,9 @@
 # Roster
 ```
 Eruptsy => Project Director, Bug/Vuln Checker, Planner
-Lamp07 => DB & Flask API Base
-vSync => Manager Base
-Blueberry => Logger System
+Lamp07 => DB & V-Web API Base
+Catty => Manager Base
+Vizionxz => Logger System
 ```
 
 # Progress Todo list
