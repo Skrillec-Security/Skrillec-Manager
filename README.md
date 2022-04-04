@@ -19,8 +19,8 @@ Vizionxz => Logger System
     - [X] Users Table
     - [X] APIs Table
     - [X] Spoofs Table
-- [ ] Manager Cmd Line Interface `/core/manager/`
-    - [ ] Input + Cmd Handler
+- [ ] Manager CLI `/core/manager/`
+    - [ ] Input the + Cmd Handler
     - [ ] TUI Prompt
     - [ ] Keybinds
 - [ ] Crud + Crud Utils `/core/crud/`
