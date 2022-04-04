@@ -20,7 +20,7 @@ Vizionxz => Logger System
     - [X] APIs Table
     - [X] Spoofs Table
 - [ ] Manager CLI `/core/manager/`
-    - [ ] Input the + Cmd Handler
+    - [ ] Input + Cmd Handler
     - [ ] TUI Prompt
     - [ ] Keybinds
 - [ ] Crud + Crud Utils `/core/crud/`
