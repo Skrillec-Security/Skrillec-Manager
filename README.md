@@ -9,9 +9,9 @@
 # Roster
 ```
 Eruptsy => Project Director, Bug/Vuln Checker, Planner
-Lamp07 => DB & Flask API Base
-vSync => Manager Base
-Blueberry => Logger System
+Lamp07 => DB & V-Web API Base
+Catty => Manager Base
+Vizionxz => Logger System
 ```
 
 # Progress Todo list
@@ -19,16 +19,20 @@ Blueberry => Logger System
     - [X] Users Table
     - [X] APIs Table
     - [X] Spoofs Table
-- [ ] Crud + Crud Utils
+- [ ] Manager CLI `/core/manager/`
+    - [ ] Input + Cmd Handler
+    - [ ] TUI Prompt
+    - [ ] Keybinds
+- [ ] Crud + Crud Utils `/core/crud/`
     - [ ] Create, Read, Update, Delete Users
     - [ ] Create, Read, Update, Delete APIs
     - [ ] Create, Read, Update, Delete Spoofs
-- [ ] Attack System
+- [ ] Attack System `/core/attack/`
     - [ ] IPv4/URL Validation
     - [ ] Port Validation
     - [ ] Time Validation
     - [ ] Conn Validation
-- [ ] Logger
+- [ ] Logger `/core/logger/`
     - [ ] Error Logger
     - [ ] Attack Logger
     - [ ] RCE Attacker Protection
@@ -38,13 +42,9 @@ Blueberry => Logger System
 * This source was developed on linux. So most of the stuff on the tutorial below is about linux unless noted for windows
 ### Requirements 
 
-* python3 & python3-pip (Linux / Windows comes with pip)
-* mysql-server
+* V 
 
 ### How to install dependencies 
-If you are on windows, the command start with `pip`
 ```
-pip3 install flask
-pip3 install requests
-pip3 install mysql.connector
+sudo apt install libssl-dev
 ```
