@@ -19,16 +19,16 @@ Vizionxz => Logger System
     - [X] Users Table
     - [X] APIs Table
     - [X] Spoofs Table
-- [ ] Crud + Crud Utils
+- [ ] Crud + Crud Utils `/core/crud/`
     - [ ] Create, Read, Update, Delete Users
     - [ ] Create, Read, Update, Delete APIs
     - [ ] Create, Read, Update, Delete Spoofs
-- [ ] Attack System
+- [ ] Attack System `/core/attack/`
     - [ ] IPv4/URL Validation
     - [ ] Port Validation
     - [ ] Time Validation
     - [ ] Conn Validation
-- [ ] Logger
+- [ ] Logger `/core/logger/`
     - [ ] Error Logger
     - [ ] Attack Logger
     - [ ] RCE Attacker Protection
